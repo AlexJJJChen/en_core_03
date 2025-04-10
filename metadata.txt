@@ -1,0 +1,4 @@
+original_filename=en_core_web_trf-any-py3-none-any.whl
+original_md5=3d53edcbf6680730536856524e34ac88
+total_parts=20
+part_size=24023040
